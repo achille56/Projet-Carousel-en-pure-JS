@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%
+}
+
+.slide {
+    display: none;
+}
+
+img {
+    width: auto;
+    height: 50rem;
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.caption {
+    padding: 1rem;
+    font-size: 30px;
+}
